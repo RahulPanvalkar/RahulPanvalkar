@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RahulPanvalkar
 - 👀 I’m interested in Java Developement
-- 🌱 I’m currently learning Advanced Java
-- 💞️ I’m looking for a Job as a Fresher Java Developer...
-- 📫 How to reach me -> messege me on LinkedIn
+- 🌱 I’m currently learning Advanced Java..
+- 💞️ I’m looking for a Job as a Fresher Java Developer
+- 📫 How to reach me -> message me on LinkedIn
 
 <!---
 RahulPanvalkar/RahulPanvalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

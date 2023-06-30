@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulPanvalkar
-- 👀 I’m interested in Full Stack Java Developement
-- 🌱 I Have knowledge of Core Java, Servlet, JSP, MySQL, JavaFX, HTML, CSS
-- 🌱 I’m currently learning Advanced Java..
+- 👀 Interested in Full Stack Java Developement
+- 🌱 Have knowledge of Core Java, Servlet, JSP, MySQL, JavaFX, HTML, CSS
+- 🌱 Currently learning Advanced Java..
 - 💞️ As a Fresher I’m looking forward to work as a proffesional Java Developer and further develope my skills
 - 📫 How to reach me -> message me on LinkedIn || E-mail me on rahulpanvalkar59@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulPanvalkar
 - 👀 Interested in Full Stack Java Developement
-- 🌱 Have knowledge of Core Java, Servlet, JSP, MySQL, Oracle DB, JavaFX, HTML, CSS, Javascript, Typescript
-- 🌱 Currently learning Spring Framework..
+- 🌱 Have knowledge of Core Java, Servlet, JSP, MySQL, Oracle DB, JavaFX, HTML, CSS, Javascript, Angular, REST
+- 🌱 Learning Spring Framework..
 - 💞️ Currently working as a Junior Java Developer
 - 📫 How to reach me -> message me on LinkedIn || E-mail me on rahulpanvalkar59@gmail.com
 

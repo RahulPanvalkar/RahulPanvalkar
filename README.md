@@ -1,17 +1,14 @@
-- 👋 Hi, I’m @RahulPanvalkar
-- 👀 Full Stack Java Developer
-- 🌱 Have knowledge of :<br>
-  Frameworks: Angular, Spring Boot, Hibernate.<br>
-  Core Java: OOPS, Collection Framework, JDBC, Exception Handling, Lambda Expression <br>
-  Web Technologies: JSP, Servlet, HTML, CSS, JavaScript, XML, XSLT<br>
-  APIs: RESTful APIs <br>
-  Version Control: GIT (GitLab, GitHub) <br>
-  Databases: MySQL, Oracle <br>
-  Cloud Platforms: AWS EC2 <br>
-  Servers: Nginx, Apache Tomcat <br>
+## About
+👋 Hi, I’m a Full Stack Java Developer, passionate about creating efficient and scalable software solutions.
 
-- 💞️ Currently working as a Junior Java Developer
-- 📫 How to reach me -> message me on LinkedIn || E-mail me on rahulpanvalkar59@gmail.com
+## 🔧 Tools and Technologies :
+  - Frontend: Angular, HTML, CSS, JavaScript, XML, XSLT<br>
+  - Backend: Spring Boot, Spring MVC, Java, JSP, Servlet, Hibernate, RESTful APIs <br>
+  - Database: SQL (MySQL, Oracle)  <br>
+  - Cloud and Server: AWS EC2, Nginx, Apache Tomcat <br>
+  
+## 📫 Get in Touch 
+  - message me on LinkedIn || E-mail me on rahulpanvalkar59@gmail.com
 
 <!---
 RahulPanvalkar/RahulPanvalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

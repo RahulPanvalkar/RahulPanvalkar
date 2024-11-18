@@ -10,6 +10,20 @@
 ## 📫 Get in Touch 
   - message me on LinkedIn || E-mail me on rahulpanvalkar59@gmail.com
 
+## 🚀 My GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RahulPanvalkar&show_icons=true&theme=buefy" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPanvalkar&layout=compact&theme=buefy" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+## 💬 Ask Me Anything
+Feel free to reach out if you have any questions, project ideas or just want to chat about tech! I'm always open to new opportunities and collaborations.
 <!---
 RahulPanvalkar/RahulPanvalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,4 +1,4 @@
-## About
+## 📖 About
 👋 Hi, I’m a Full Stack Java Developer, passionate about creating efficient and scalable software solutions.
 
 ## 🔧 Tools and Technologies :

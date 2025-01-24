@@ -1,7 +1,4 @@
-<h1 align="center">
-  Portfolio Website<br/>
-  <a href="https://rahul-panvalkar.vercel.app/" target="_blank">rahul.tech</a>
-</h1>
+
 <div align="center">
   <img alt="Demo" src="./profile-banner.png" />
 </div>
@@ -10,10 +7,11 @@
 
 
 ## 📖 About
-👋 Hi, I’m a Full Stack Java Developer, passionate about creating efficient and scalable software solutions.
+- 👨🏻‍💻 I’m a Full Stack Java Developer, passionate about creating efficient and scalable software solutions.
+- 🙋‍♂️ All about me is at [My Website](https://rahul-panvalkar.vercel.app)
 
 
-## 🔧 Tools and Technologies :
+## 🔧 Tools and Technologies I use:
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
@@ -39,7 +37,12 @@
 
   
 ## 📫 Get in Touch 
-  - message me on LinkedIn || E-mail me on rahulpanvalkar59@gmail.com
+[![Rahul.tech](https://img.shields.io/badge/Rahul.tech-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://rahul-panvalkar.vercel.app) &nbsp;
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulpanvalkar59@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-panvalkar) &nbsp;
+
+
+
 
 ## 🚀 My GitHub Stats
 <table>
